@@ -16,7 +16,7 @@ The best way to communicate with me is **visually**. I am a visual learner and I
 
 I value **simple, straightforward communication**. I appreciate it when people present the bottom line as immediately as possible. I also really like metaphors and analogies. I'm turned off when people use big words or acronyms and assume everyone knows what they mean.
 
-**GitHub PRs should have a lot of content and discussion**. Descriptions should be clear and reasons for the changes should be well documented. This artifact should stand the test of time so that when we are all gone there is a clear record.
+**GitHub PRs should be focused and have a lot of discussion**. Descriptions should be clear and reasons for the changes should be well documented. This artifact should stand the test of time so that when we are all gone there is a clear record.
 
 I appreciate **adversarial thinking** from my coworkers and colleagues. Having a growth mentality means testing ideas constantly and feel around them for vulnerabilities. I do not get offended when my ideas are attacked. I'm turned off when people have all of their pride wrapped up in their ideas and refuse to accept criticism.
 
